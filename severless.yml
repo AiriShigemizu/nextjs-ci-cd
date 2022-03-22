@@ -1,0 +1,3 @@
+nextApp:
+  component: "@sls-next/severless-component@1.18.0"
+  
